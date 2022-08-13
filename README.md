@@ -1,7 +1,7 @@
 Hi there 👋
 
 My name is Dor, 
-I am a young developer from Israel. 🇮🇱
+I am a young developer
 
 About me:
  • I am a python 🐍 and c# programmer 
