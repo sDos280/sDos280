@@ -11,7 +11,7 @@ About me:
  • I like to learn math and program small games.
 I’m currently learning:
  • calculus ✖️➗➕➖.
- • c++ programming language 💻.
+ • c/c++ programming language 💻.
 
 I'm currently working on:
  • nothing really, but I am open for ideas or for helping others 😀.
