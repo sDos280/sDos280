@@ -21,6 +21,6 @@ I'm currently working on:
 
 
 How to reach me:
- • discord: dodor2500#0669 .
- • gmail: sdor2803@gmail.com 📩.
+* discord: dodor2500#0669 .
+* gmail: sdor2803@gmail.com 📩.
  (note: I am hardly reading my emails so texting me on discord will be a better way to reach me).
