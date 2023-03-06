@@ -15,9 +15,9 @@ I’m currently learning:
  • c/c++ programming language 💻.
 
 I'm currently working on:
- • https://github.com/reapyr-dev/reapyr
- • https://github.com/sDos280/binary-expression-evaluator
- • https://github.com/sDos280/binary-expression-evaluator
+ * https://github.com/reapyr-dev/reapyr
+ * https://github.com/sDos280/binary-expression-evaluator
+ * https://github.com/sDos280/binary-expression-evaluator
 
 
 How to reach me:
