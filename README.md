@@ -9,12 +9,16 @@ About me:
  • I enjoy playing tennis (but I'm not that good at it 😅) and meeting friends.
  • I like red pandas 🐼. 
  • I like to learn math and program small games.
+
 I’m currently learning:
  • calculus ✖️➗➕➖.
  • c/c++ programming language 💻.
 
 I'm currently working on:
- • nothing really, but I am open for ideas or for helping others 😀.
+ • https://github.com/reapyr-dev/reapyr
+ • https://github.com/sDos280/binary-expression-evaluator
+ • https://github.com/sDos280/binary-expression-evaluator
+
 
 How to reach me:
  • discord: dodor2500#0669 .
