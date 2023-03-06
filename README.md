@@ -12,7 +12,7 @@ About me:
 
 I’m currently learning:
  • calculus ✖️➗➕➖.
- • c/c++ programming language 💻.
+ • the architecture of compilers 💻.
 
 I'm currently working on:
  * https://github.com/reapyr-dev/reapyr
