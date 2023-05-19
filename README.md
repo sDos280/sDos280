@@ -15,9 +15,8 @@ I’m currently learning:
  • the architecture of compilers 💻.
 
 I'm currently working on:
- * https://github.com/reapyr-dev/reapyr
- * https://github.com/sDos280/binary-expression-evaluator
- * https://github.com/sDos280/binary-expression-evaluator
+ * https://github.com/sDos280/MTCC
+ * https://github.com/sDos280/Open-Assistant-Hebrew
 
 
 How to reach me:
