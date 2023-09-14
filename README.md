@@ -15,11 +15,11 @@ I’m currently learning:
  • the architecture of compilers 💻.
 
 I'm currently working on:
- * https://github.com/sDos280/MTCC
- * https://github.com/sDos280/Open-Assistant-Hebrew
+ * [SimplerC](https://github.com/sDos280/SimplerC)
+ * [Raypyc](https://github.com/sDos280/raylib-python-ctypes)
 
 
 How to reach me:
 * discord: dodor2500#0669 .
 * gmail: sdor2803@gmail.com 📩.
- (note: I am hardly reading my emails so texting me on discord will be a better way to reach me).
+ (note: I hardly read my emails so texting me on discord will be a better way to reach me).
